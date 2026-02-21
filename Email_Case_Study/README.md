@@ -166,12 +166,12 @@ Year from email timestamps
 🔗 Project Links
 
 📂 Full Project Code:
-https://github.com/Muhammad-UmarFarooq/Projects
+https://github.com/Muhammad-UmarFarooq/Data_Analysis_Projects/tree/main/Email_Case_Study
 
 ---
 
 📄 LinkedIn Post:
-https://www.linkedin.com/posts/muhammadumarfarooq584_datascience-eda-python-activity-7371908944979464192-Nx9f
+https://www.linkedin.com/posts/muhammadumarfarooq584_datascience-eda-python-share-7371908943687696384-R2hg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuX_EBav7rjCjefqZng-3_hKzLV1OCHVk
 
 ---
 
