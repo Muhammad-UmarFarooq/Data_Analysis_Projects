@@ -2,6 +2,8 @@
 
 Academic Case Study
 
+---
+
 📌 Project Overview
 
 This project is an academic case study conducted as part of my engineering coursework. The objective is to perform Exploratory Data Analysis (EDA) on personal Gmail data exported using Google Takeout, with the aim of understanding email communication patterns and gaining hands-on experience working with real-world unstructured data.
