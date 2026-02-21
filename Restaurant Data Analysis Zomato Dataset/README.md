@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Muhammad-UmarFarooq/Restaurant-Data-Analysis-Zomato-Dataset/blob/main/Restaurant_Data_Analysis_Zomato_Dataset.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Muhammad-UmarFarooq/Data-Analysis-Projects/Restaurant Data Analysis Zomato Dataset/Restaurant-Data-Analysis-Zomato-Dataset/blob/main/Restaurant_Data_Analysis_Zomato_Dataset.ipynb)
 
 🍽️ Restaurant Data Analysis (Zomato Dataset)
 📌 Project Overview
