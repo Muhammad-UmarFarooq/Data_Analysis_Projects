@@ -58,6 +58,7 @@ ________________________________________
 🚀 How to Run the Project
 1.	Clone the repository
 git clone https://github.com/Muhammad-UmarFarooq/Data_Analysis_Projects.git
+2.	Install required libraries
 pip install pandas numpy matplotlib seaborn
 3.	Run the Python script or Jupyter Notebook
 ________________________________________
