@@ -1,5 +1,4 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Muhammad-UmarFarooq/Data_Analysis_Projects/blob/main/Email_Case_Study/Email_Case_Study.ipynb)
 
 📊 Exploratory Data Analysis (EDA) on Gmail Takeout Dataset
 
