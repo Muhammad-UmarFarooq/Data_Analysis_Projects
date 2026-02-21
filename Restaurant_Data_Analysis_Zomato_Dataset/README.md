@@ -1,4 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Muhammad-UmarFarooq/Data_Analysis_Projects/blob/main/Restaurant_Data_Analysis_Zomato_Dataset/Restaurant_Data_Analysis_Zomato_Dataset.ipynb)
+
 🍽️ Restaurant Data Analysis (Zomato Dataset)
 📌 Project Overview
 This project focuses on analyzing restaurant data to understand customer preferences and ordering behavior. The analysis is performed using Python with an emphasis on data cleaning, exploratory data analysis (EDA), and visualization. The goal is to extract meaningful insights related to ratings, votes, restaurant types, and online ordering trends.
