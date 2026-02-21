@@ -10,6 +10,8 @@ This project is an academic case study conducted as part of my engineering cours
 
 The project focuses on data extraction, cleaning, feature engineering, and visualization, rather than predictive modeling.
 
+---
+
 🎯 Objectives
 
 Import and process raw Gmail .mbox data
@@ -38,6 +40,8 @@ Year-wise communication trends
 
 Visualize communication patterns using charts and word clouds
 
+---
+
 🛠️ Tools & Libraries
 
 Python
@@ -49,6 +53,8 @@ Matplotlib & Seaborn – Data visualization
 WordCloud – Text analysis and visualization
 
 Mailbox, CSV – Email data extraction and transformation
+
+---
 
 📂 Dataset
 
@@ -75,6 +81,8 @@ thread
 ⚠️ Note:
 The dataset contains personal email metadata only.
 For privacy and ethical reasons, the dataset is not shared publicly.
+
+---
 
 🔑 Key Steps Performed
 1️⃣ Data Loading
@@ -117,6 +125,8 @@ Scatter plots showing time-based patterns
 
 Word cloud visualization of email subjects
 
+---
+
 📊 Sample Visualizations
 
 Emails by Day of the Week
@@ -129,6 +139,8 @@ Word Cloud of Email Subjects
 
 (Screenshots can be added here if available)
 
+---
+
 📈 Key Insights
 
 Clear differences observed between sent and received email activity
@@ -138,6 +150,8 @@ Higher communication frequency on specific days of the week
 Word cloud revealed commonly used subject-line terms
 
 Strong time-based patterns visible across different years and times of day
+
+---
 
 📚 Learnings
 
@@ -149,18 +163,26 @@ Importance of feature engineering in time-series analysis
 
 Using visualizations to communicate data-driven insights effectively
 
+---
+
 🔗 Project Links
 
 📂 Full Project Code:
 https://github.com/Muhammad-UmarFarooq/Projects
 
+---
+
 📄 LinkedIn Post:
 https://www.linkedin.com/posts/muhammadumarfarooq584_datascience-eda-python-activity-7371908944979464192-Nx9f
+
+---
 
 ❌ Machine Learning Scope
 
 This project focuses exclusively on exploratory data analysis and visualization.
 Machine learning models were not applied, as the goal was to analyze patterns and derive insights rather than prediction.
+
+---
 
 ⭐ Acknowledgments
 
