@@ -57,7 +57,7 @@ This project focuses on exploratory data analysis and visualization. Machine lea
 ________________________________________
 🚀 How to Run the Project
 1.	Clone the repository
-git clone https://github.com/Muhammad-UmarFarooq/Data_Analysis_Projects/Restaurant_Data_Analysis_Zomato_Dataset/restaurant-data-analysis-zomato-dataset.git
+git clone https://github.com/Muhammad-UmarFarooq/Data_Analysis_Projects/Restaurant_Data_Analysis_Zomato_Dataset/Restaurant-Data-Analysis-Zomato-Dataset.git
 2.	Install required libraries
 pip install pandas numpy matplotlib seaborn
 3.	Run the Python script or Jupyter Notebook
