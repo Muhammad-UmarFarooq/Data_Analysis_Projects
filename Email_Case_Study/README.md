@@ -14,9 +14,9 @@ The project focuses on data extraction, cleaning, feature engineering, and visua
 
 🎯 Objectives
 
-Import and process raw Gmail .mbox data
+- Import and process raw Gmail .mbox data
 
-Clean and transform email metadata such as:
+- Clean and transform email metadata such as:
 
 Subject
 
@@ -28,9 +28,9 @@ Labels
 
 Threads
 
-Perform descriptive statistical analysis
+- Perform descriptive statistical analysis
 
-Engineer meaningful features, including:
+- Engineer meaningful features, including:
 
 Day of the week emails were sent/received
 
@@ -38,33 +38,33 @@ Time of day of emails
 
 Year-wise communication trends
 
-Visualize communication patterns using charts and word clouds
+- Visualize communication patterns using charts and word clouds
 
 ---
 
 🛠️ Tools & Libraries
 
-Python
+- Python
 
-Pandas – Data manipulation and analysis
+- Pandas – Data manipulation and analysis
 
-Matplotlib & Seaborn – Data visualization
+- Matplotlib & Seaborn – Data visualization
 
-WordCloud – Text analysis and visualization
+- WordCloud – Text analysis and visualization
 
-Mailbox, CSV – Email data extraction and transformation
+- Mailbox, CSV – Email data extraction and transformation
 
 ---
 
 📂 Dataset
 
-Data Source: Google Takeout (Gmail Export)
+- Data Source: Google Takeout (Gmail Export)
 
-Original Format: .mbox
+- Original Format: .mbox
 
-Processed Format: .csv
+- Processed Format: .csv
 
-Fields Extracted
+- Fields Extracted
 
 subject
 
@@ -87,21 +87,21 @@ For privacy and ethical reasons, the dataset is not shared publicly.
 🔑 Key Steps Performed
 1️⃣ Data Loading
 
-Converted .mbox files into a structured .csv format
+- Converted .mbox files into a structured .csv format
 
-Imported data into Pandas DataFrames
+- Imported data into Pandas DataFrames
 
 2️⃣ Data Cleaning
 
-Handled missing and inconsistent values
+- Handled missing and inconsistent values
 
-Removed irrelevant or unused columns
+- Removed irrelevant or unused columns
 
-Standardized date and time formats
+- Standardized date and time formats
 
 3️⃣ Feature Engineering
 
-Extracted:
+- Extracted:
 
 Day of the week
 
@@ -111,57 +111,55 @@ Year from email timestamps
 
 4️⃣ Descriptive Analysis
 
-Analyzed email counts and distributions
-
-Compared sent vs. received emails
+- Analyzed email counts and distributions
+ 
+- Compared sent vs. received emails
 
 5️⃣ Data Visualization
 
-Bar charts for emails by day of the week
+- Bar charts for emails by day of the week
 
-Comparison plots for sent vs. received emails
+- Comparison plots for sent vs. received emails
 
-Scatter plots showing time-based patterns
+- Scatter plots showing time-based patterns
 
-Word cloud visualization of email subjects
+- Word cloud visualization of email subjects
 
 ---
 
 📊 Sample Visualizations
 
-Emails by Day of the Week
+- Emails by Day of the Week
 
-Sent vs. Received Emails
+- Sent vs. Received Emails
 
-Scatter Plot (Time of Day vs Year)
+- Scatter Plot (Time of Day vs Year)
 
-Word Cloud of Email Subjects
-
-(Screenshots can be added here if available)
+- Word Cloud of Email Subjects
 
 ---
 
 📈 Key Insights
 
-Clear differences observed between sent and received email activity
+- Clear differences observed between sent and received email activity
 
-Higher communication frequency on specific days of the week
+- Higher communication frequency on specific days of the week
 
-Word cloud revealed commonly used subject-line terms
+- Word cloud revealed commonly used subject-line terms
 
-Strong time-based patterns visible across different years and times of day
+- Strong time-based patterns visible across different years and times of day
 
 ---
 
 📚 Learnings
 
-Working with unstructured real-world datasets
+- Working with unstructured real-world datasets
 
-Converting .mbox files into structured formats
+- Converting .mbox files into structured formats
 
-Importance of feature engineering in time-series analysis
+- Importance of feature engineering in time-series analysis
 
-Using visualizations to communicate data-driven insights effectively
+- Using visualizations to communicate data-driven insights effectively
 
 ---
 
@@ -186,6 +184,6 @@ Machine learning models were not applied, as the goal was to analyze patterns an
 
 ⭐ Acknowledgments
 
-Google Takeout for providing data export functionality
+- Google Takeout for providing data export functionality
 
-Python open-source community
+- Python open-source community
